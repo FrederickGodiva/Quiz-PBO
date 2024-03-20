@@ -4,6 +4,6 @@ public class Dikotil extends Tumbuhan {
     }
 
     public void lakukanPertumbuhanSekunder() {
-        System.out.println("Ada aktivitas di meristematik Dikotil");
+        System.out.println("Ada aktivitas di meristematik sekunder");
     }
 }
